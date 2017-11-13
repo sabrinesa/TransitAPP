@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:focusable="true"
+android:paddingLeft="16dp"
+android:paddingRight="16dp"
+android:paddingTop="10dp"
+android:paddingBottom="10dp"
+android:clickable="true"
+android:background="?android:attr/selectableItemBackground"
+android:orientation="vertical">
+<com.makeramen.roundedimageview.RoundedImageView
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/imageView1"
+    android:src="@drawable/car_icon"
+    android:scaleType="fitCenter"
+    app:riv_corner_radius="30dip"
+    app:riv_border_width="3dip"
+    app:riv_border_color="#ffff"
+    app:riv_oval="true"
+    android:textStyle="bold"
+    android:layout_alignParentTop="true"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" />
+
+<TextView
+    android:id="@+id/title"
+    android:textColor="@color/title"
+    android:textSize="20dp"
+    android:textStyle="bold"
+    android:layout_alignParentTop="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+</RelativeLayout>

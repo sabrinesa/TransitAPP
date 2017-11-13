@@ -1,0 +1,779 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\f9f04ec4cd7bdebd6f5f6a1af38bade7\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-9.8.0.aar\7c772a687662263b362aa77a15e70d07\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7d90969c7e0ea7e1ece82e97baf24ce4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5959d12ae7073feb5adeaa49d01df213\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9d1562dae8e9a299cc223dd94eff4db7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\roundedimageview-2.3.0.aar\2eff1da1c527b829f325d04c72f3e114\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\4c3827c28d39b7755ff4795dae35907f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f594ee8d00a174ed40c74ad8f7fe435f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.8.0.aar\4dccafca0292a205838630b0269dec1f\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\7265711a65bce4dbd726e0eae7755adc\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-9.8.0.aar\4db5442e32f0a9a2d87efe653573ebf2\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\db3c86ac76ea249c04c597a7a0a6dfcf\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\4dab8207ddc940699ecc06dcaecf00d8\AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.8.0.aar\49c5d09ffd166eecb87483ade44857d6\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\9d05d7d85cb794e9783ddf1a731888fc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.8.0.aar\fd1da9d6af93c5a75ac22be6acb3891f\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\f201018ddead083e233d7656a5f55607\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-config:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-config-9.8.0.aar\0c058a6ae4332217462f3a708ef7fead\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.8.0.aar\19ae67a85b857edb63673aebb3cf9bda\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-games-9.8.0.aar\62a1a2f287579c7ddaee41ec10effe61\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.8.0.aar\d432e036feb32feb47b717ecb78b6c62\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.8.0.aar\2da881bf7a032b7357cf7c735e784714\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.8.0.aar\7bdd9cf56633e5103eea092a5da4d514\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.8.0.aar\a88bf160d8250477fd9210b47734bbbf\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.8.0.aar\c30e022a0c0c1f2149d2692e8f47713b\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\be4657eb1d58e49400bd3f63ca7465b9\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\63f2c476dd6e9fad303f17c52865ded7\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-wallet-9.8.0.aar\b8c4196430056d58c5a11dcae47d8d52\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.8.0.aar\3717aec97ec83284e883bd3e1fd922a4\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\2873a995ca695e6c2152e76ebdd9832e\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-9.8.0.aar\51cbb23e2b222328816823d727fc3af6\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-location-9.8.0.aar\4a3d6b89777ed145d9baa0958ec94714\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-places-9.8.0.aar\ede8d6eff4ee38c7fa182d1d54dc8d9a\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\e24a4ad6479a3ee4ff9b887d3d9b8475\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.8.0.aar\31aeb8ce1ae367f6b26632c096ca91cf\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.8.0.aar\7320249bcc859ef3889bae43abaac102\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.8.0.aar\eb2508ebdd003011b25458eb5fc69203\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.8.0.aar\b9953a7242b54876c5209bbbce3bbae2\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\453d2a243c576713d7e738d2efffea61\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.8.0.aar\65ce27578fe92036cd5ace2e471ea644\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\40f0c37d5269ddf0fdc387c2456a28ee\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.8.0.aar\762ec81d99bef72e25d38abfb8fff2ba\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-database:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-database-9.8.0.aar\1ee5eb2cc67a3a30223b0428fd294d7a\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.8.0.aar\6c6776abc6c8787f7aaea33b7c2ac174\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\58603973cb950aaca5861e1f1d3e1738\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.firebase:firebase-storage:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.8.0.aar\6fc07f4f3493f780d83a9da2eb910c7b\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.8.0.aar\85fc3e651db3c74bac288a9d95e97268\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\b5dc6cb0d4d993a9fc568a18ee530c8f\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\d90447c0fdc07397eda69ae3c3df6aad\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\bc930ac5b86579f7c7d4379f3176d621\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\92cc54258d5226dd2828f6c860a5233e\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1236d5f67117bb6f57a887a9979e2c50\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\47844d271274316f96b086d1748d91f4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\54ec1b3b1915e7cd8f1cc1480816fc09\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8d3130f022e799655211f937a0338598\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b7df65e3c95d8e97bc232e62cc38de68\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a0fa31e72f78779f0a9a38ddc0f964c5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9e1e651967e104b2e9da9de8f7ce9504\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\423e59f3ce43075e41d239626c26ceae\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fcd29566a0f7b3c1402328d58de3cd29\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c5e486ece498bb71d8c52a1c667c9d3f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\91222773b3a74686df4d2d9e35c8ab1d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\62bb065ef568444bc3b7afdd8fb23368\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\80c5b86898a19d7dff5905c64ceb66c2\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\7265711a65bce4dbd726e0eae7755adc\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\7265711a65bce4dbd726e0eae7755adc\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\db3c86ac76ea249c04c597a7a0a6dfcf\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\db3c86ac76ea249c04c597a7a0a6dfcf\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\be4657eb1d58e49400bd3f63ca7465b9\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\be4657eb1d58e49400bd3f63ca7465b9\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\2873a995ca695e6c2152e76ebdd9832e\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\2873a995ca695e6c2152e76ebdd9832e\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\e24a4ad6479a3ee4ff9b887d3d9b8475\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\e24a4ad6479a3ee4ff9b887d3d9b8475\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.8.0.aar\762ec81d99bef72e25d38abfb8fff2ba\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.8.0.aar\762ec81d99bef72e25d38abfb8fff2ba\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:7:5-45:19
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\f9f04ec4cd7bdebd6f5f6a1af38bade7\AndroidManifest.xml:11:5-20
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\f9f04ec4cd7bdebd6f5f6a1af38bade7\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-9.8.0.aar\7c772a687662263b362aa77a15e70d07\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-9.8.0.aar\7c772a687662263b362aa77a15e70d07\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7d90969c7e0ea7e1ece82e97baf24ce4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7d90969c7e0ea7e1ece82e97baf24ce4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5959d12ae7073feb5adeaa49d01df213\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5959d12ae7073feb5adeaa49d01df213\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9d1562dae8e9a299cc223dd94eff4db7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9d1562dae8e9a299cc223dd94eff4db7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f594ee8d00a174ed40c74ad8f7fe435f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f594ee8d00a174ed40c74ad8f7fe435f\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\7265711a65bce4dbd726e0eae7755adc\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\7265711a65bce4dbd726e0eae7755adc\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\db3c86ac76ea249c04c597a7a0a6dfcf\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\db3c86ac76ea249c04c597a7a0a6dfcf\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\4dab8207ddc940699ecc06dcaecf00d8\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\4dab8207ddc940699ecc06dcaecf00d8\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\9d05d7d85cb794e9783ddf1a731888fc\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\9d05d7d85cb794e9783ddf1a731888fc\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.8.0.aar\fd1da9d6af93c5a75ac22be6acb3891f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.8.0.aar\fd1da9d6af93c5a75ac22be6acb3891f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\f201018ddead083e233d7656a5f55607\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\f201018ddead083e233d7656a5f55607\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-config-9.8.0.aar\0c058a6ae4332217462f3a708ef7fead\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-config-9.8.0.aar\0c058a6ae4332217462f3a708ef7fead\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.8.0.aar\19ae67a85b857edb63673aebb3cf9bda\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.8.0.aar\19ae67a85b857edb63673aebb3cf9bda\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-games-9.8.0.aar\62a1a2f287579c7ddaee41ec10effe61\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-games-9.8.0.aar\62a1a2f287579c7ddaee41ec10effe61\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.8.0.aar\d432e036feb32feb47b717ecb78b6c62\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.8.0.aar\d432e036feb32feb47b717ecb78b6c62\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.8.0.aar\2da881bf7a032b7357cf7c735e784714\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.8.0.aar\2da881bf7a032b7357cf7c735e784714\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.8.0.aar\7bdd9cf56633e5103eea092a5da4d514\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.8.0.aar\7bdd9cf56633e5103eea092a5da4d514\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.8.0.aar\c30e022a0c0c1f2149d2692e8f47713b\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.8.0.aar\c30e022a0c0c1f2149d2692e8f47713b\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\be4657eb1d58e49400bd3f63ca7465b9\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\be4657eb1d58e49400bd3f63ca7465b9\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\63f2c476dd6e9fad303f17c52865ded7\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\63f2c476dd6e9fad303f17c52865ded7\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.8.0.aar\3717aec97ec83284e883bd3e1fd922a4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.8.0.aar\3717aec97ec83284e883bd3e1fd922a4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\2873a995ca695e6c2152e76ebdd9832e\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\2873a995ca695e6c2152e76ebdd9832e\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-location-9.8.0.aar\4a3d6b89777ed145d9baa0958ec94714\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-location-9.8.0.aar\4a3d6b89777ed145d9baa0958ec94714\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-places-9.8.0.aar\ede8d6eff4ee38c7fa182d1d54dc8d9a\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-places-9.8.0.aar\ede8d6eff4ee38c7fa182d1d54dc8d9a\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\e24a4ad6479a3ee4ff9b887d3d9b8475\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\e24a4ad6479a3ee4ff9b887d3d9b8475\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.8.0.aar\31aeb8ce1ae367f6b26632c096ca91cf\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.8.0.aar\31aeb8ce1ae367f6b26632c096ca91cf\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.8.0.aar\7320249bcc859ef3889bae43abaac102\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.8.0.aar\7320249bcc859ef3889bae43abaac102\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.8.0.aar\eb2508ebdd003011b25458eb5fc69203\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.8.0.aar\eb2508ebdd003011b25458eb5fc69203\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.8.0.aar\b9953a7242b54876c5209bbbce3bbae2\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.8.0.aar\b9953a7242b54876c5209bbbce3bbae2\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\453d2a243c576713d7e738d2efffea61\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\453d2a243c576713d7e738d2efffea61\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.8.0.aar\65ce27578fe92036cd5ace2e471ea644\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.8.0.aar\65ce27578fe92036cd5ace2e471ea644\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\40f0c37d5269ddf0fdc387c2456a28ee\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\40f0c37d5269ddf0fdc387c2456a28ee\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.8.0.aar\762ec81d99bef72e25d38abfb8fff2ba\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.8.0.aar\762ec81d99bef72e25d38abfb8fff2ba\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\58603973cb950aaca5861e1f1d3e1738\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\58603973cb950aaca5861e1f1d3e1738\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\b5dc6cb0d4d993a9fc568a18ee530c8f\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\b5dc6cb0d4d993a9fc568a18ee530c8f\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\d90447c0fdc07397eda69ae3c3df6aad\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\d90447c0fdc07397eda69ae3c3df6aad\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\bc930ac5b86579f7c7d4379f3176d621\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\bc930ac5b86579f7c7d4379f3176d621\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\92cc54258d5226dd2828f6c860a5233e\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\92cc54258d5226dd2828f6c860a5233e\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1236d5f67117bb6f57a887a9979e2c50\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1236d5f67117bb6f57a887a9979e2c50\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\47844d271274316f96b086d1748d91f4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\47844d271274316f96b086d1748d91f4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\54ec1b3b1915e7cd8f1cc1480816fc09\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\54ec1b3b1915e7cd8f1cc1480816fc09\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8d3130f022e799655211f937a0338598\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8d3130f022e799655211f937a0338598\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b7df65e3c95d8e97bc232e62cc38de68\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b7df65e3c95d8e97bc232e62cc38de68\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a0fa31e72f78779f0a9a38ddc0f964c5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a0fa31e72f78779f0a9a38ddc0f964c5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9e1e651967e104b2e9da9de8f7ce9504\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9e1e651967e104b2e9da9de8f7ce9504\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\423e59f3ce43075e41d239626c26ceae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\423e59f3ce43075e41d239626c26ceae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fcd29566a0f7b3c1402328d58de3cd29\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fcd29566a0f7b3c1402328d58de3cd29\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c5e486ece498bb71d8c52a1c667c9d3f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c5e486ece498bb71d8c52a1c667c9d3f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\91222773b3a74686df4d2d9e35c8ab1d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\91222773b3a74686df4d2d9e35c8ab1d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\62bb065ef568444bc3b7afdd8fb23368\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\62bb065ef568444bc3b7afdd8fb23368\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\80c5b86898a19d7dff5905c64ceb66c2\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\80c5b86898a19d7dff5905c64ceb66c2\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:13:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:14:9-16:71
+	android:value
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:16:13-68
+	android:name
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:15:13-58
+activity#com.app.transit.transitapp.Controller.SplashScreenActivity
+ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:18:19-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.app.transit.transitapp.Controller.LoginActivity
+ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:25:9-28:59
+	android:label
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:27:13-57
+	android:theme
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:26:13-53
+activity#com.app.transit.transitapp.Controller.SignUpActivity
+ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:29:9-32:59
+	android:label
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:31:13-29
+	android:theme
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:30:13-54
+activity#com.app.transit.transitapp.Controller.MapActivity
+ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:33:9-36:59
+	android:label
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:35:13-55
+	android:theme
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:34:13-51
+activity#com.app.transit.transitapp.Controller.FiltredRoutesController
+ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:37:9-40:59
+	android:label
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:39:13-77
+	android:theme
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:38:13-63
+activity#com.app.transit.transitapp.Controller.RoutesController
+ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:41:9-44:68
+	android:label
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:43:13-69
+	android:theme
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml:42:13-56
+uses-sdk
+INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\f9f04ec4cd7bdebd6f5f6a1af38bade7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\f9f04ec4cd7bdebd6f5f6a1af38bade7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-9.8.0.aar\7c772a687662263b362aa77a15e70d07\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-9.8.0.aar\7c772a687662263b362aa77a15e70d07\AndroidManifest.xml:4:5-42
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7d90969c7e0ea7e1ece82e97baf24ce4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7d90969c7e0ea7e1ece82e97baf24ce4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5959d12ae7073feb5adeaa49d01df213\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5959d12ae7073feb5adeaa49d01df213\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9d1562dae8e9a299cc223dd94eff4db7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9d1562dae8e9a299cc223dd94eff4db7\AndroidManifest.xml:20:5-44
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\roundedimageview-2.3.0.aar\2eff1da1c527b829f325d04c72f3e114\AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\roundedimageview-2.3.0.aar\2eff1da1c527b829f325d04c72f3e114\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\4c3827c28d39b7755ff4795dae35907f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\4c3827c28d39b7755ff4795dae35907f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f594ee8d00a174ed40c74ad8f7fe435f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f594ee8d00a174ed40c74ad8f7fe435f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.8.0.aar\4dccafca0292a205838630b0269dec1f\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.8.0.aar\4dccafca0292a205838630b0269dec1f\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\7265711a65bce4dbd726e0eae7755adc\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\7265711a65bce4dbd726e0eae7755adc\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-9.8.0.aar\4db5442e32f0a9a2d87efe653573ebf2\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-9.8.0.aar\4db5442e32f0a9a2d87efe653573ebf2\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\db3c86ac76ea249c04c597a7a0a6dfcf\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\db3c86ac76ea249c04c597a7a0a6dfcf\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\4dab8207ddc940699ecc06dcaecf00d8\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\4dab8207ddc940699ecc06dcaecf00d8\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.8.0.aar\49c5d09ffd166eecb87483ade44857d6\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.8.0.aar\49c5d09ffd166eecb87483ade44857d6\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\9d05d7d85cb794e9783ddf1a731888fc\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\9d05d7d85cb794e9783ddf1a731888fc\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.8.0.aar\fd1da9d6af93c5a75ac22be6acb3891f\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.8.0.aar\fd1da9d6af93c5a75ac22be6acb3891f\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\f201018ddead083e233d7656a5f55607\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\f201018ddead083e233d7656a5f55607\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-config-9.8.0.aar\0c058a6ae4332217462f3a708ef7fead\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-config-9.8.0.aar\0c058a6ae4332217462f3a708ef7fead\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.8.0.aar\19ae67a85b857edb63673aebb3cf9bda\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.8.0.aar\19ae67a85b857edb63673aebb3cf9bda\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-games-9.8.0.aar\62a1a2f287579c7ddaee41ec10effe61\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-games-9.8.0.aar\62a1a2f287579c7ddaee41ec10effe61\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.8.0.aar\d432e036feb32feb47b717ecb78b6c62\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.8.0.aar\d432e036feb32feb47b717ecb78b6c62\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.8.0.aar\2da881bf7a032b7357cf7c735e784714\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.8.0.aar\2da881bf7a032b7357cf7c735e784714\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.8.0.aar\7bdd9cf56633e5103eea092a5da4d514\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.8.0.aar\7bdd9cf56633e5103eea092a5da4d514\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.8.0.aar\a88bf160d8250477fd9210b47734bbbf\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.8.0.aar\a88bf160d8250477fd9210b47734bbbf\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.8.0.aar\c30e022a0c0c1f2149d2692e8f47713b\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.8.0.aar\c30e022a0c0c1f2149d2692e8f47713b\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\be4657eb1d58e49400bd3f63ca7465b9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\be4657eb1d58e49400bd3f63ca7465b9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\63f2c476dd6e9fad303f17c52865ded7\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\63f2c476dd6e9fad303f17c52865ded7\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-wallet-9.8.0.aar\b8c4196430056d58c5a11dcae47d8d52\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-wallet-9.8.0.aar\b8c4196430056d58c5a11dcae47d8d52\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.8.0.aar\3717aec97ec83284e883bd3e1fd922a4\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.8.0.aar\3717aec97ec83284e883bd3e1fd922a4\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\2873a995ca695e6c2152e76ebdd9832e\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\2873a995ca695e6c2152e76ebdd9832e\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-9.8.0.aar\51cbb23e2b222328816823d727fc3af6\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-9.8.0.aar\51cbb23e2b222328816823d727fc3af6\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-location-9.8.0.aar\4a3d6b89777ed145d9baa0958ec94714\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-location-9.8.0.aar\4a3d6b89777ed145d9baa0958ec94714\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-places:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-places-9.8.0.aar\ede8d6eff4ee38c7fa182d1d54dc8d9a\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-places-9.8.0.aar\ede8d6eff4ee38c7fa182d1d54dc8d9a\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\e24a4ad6479a3ee4ff9b887d3d9b8475\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\e24a4ad6479a3ee4ff9b887d3d9b8475\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.8.0.aar\31aeb8ce1ae367f6b26632c096ca91cf\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.8.0.aar\31aeb8ce1ae367f6b26632c096ca91cf\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.8.0.aar\7320249bcc859ef3889bae43abaac102\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.8.0.aar\7320249bcc859ef3889bae43abaac102\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.8.0.aar\eb2508ebdd003011b25458eb5fc69203\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.8.0.aar\eb2508ebdd003011b25458eb5fc69203\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.8.0.aar\b9953a7242b54876c5209bbbce3bbae2\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.8.0.aar\b9953a7242b54876c5209bbbce3bbae2\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\453d2a243c576713d7e738d2efffea61\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\453d2a243c576713d7e738d2efffea61\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.8.0.aar\65ce27578fe92036cd5ace2e471ea644\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.8.0.aar\65ce27578fe92036cd5ace2e471ea644\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\40f0c37d5269ddf0fdc387c2456a28ee\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\40f0c37d5269ddf0fdc387c2456a28ee\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.8.0.aar\762ec81d99bef72e25d38abfb8fff2ba\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.8.0.aar\762ec81d99bef72e25d38abfb8fff2ba\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-database:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-database-9.8.0.aar\1ee5eb2cc67a3a30223b0428fd294d7a\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-database-9.8.0.aar\1ee5eb2cc67a3a30223b0428fd294d7a\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.8.0.aar\6c6776abc6c8787f7aaea33b7c2ac174\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.8.0.aar\6c6776abc6c8787f7aaea33b7c2ac174\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\58603973cb950aaca5861e1f1d3e1738\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\58603973cb950aaca5861e1f1d3e1738\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.8.0.aar\6fc07f4f3493f780d83a9da2eb910c7b\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.8.0.aar\6fc07f4f3493f780d83a9da2eb910c7b\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.8.0.aar\85fc3e651db3c74bac288a9d95e97268\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.8.0.aar\85fc3e651db3c74bac288a9d95e97268\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\b5dc6cb0d4d993a9fc568a18ee530c8f\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\b5dc6cb0d4d993a9fc568a18ee530c8f\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\d90447c0fdc07397eda69ae3c3df6aad\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\d90447c0fdc07397eda69ae3c3df6aad\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\bc930ac5b86579f7c7d4379f3176d621\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\bc930ac5b86579f7c7d4379f3176d621\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\92cc54258d5226dd2828f6c860a5233e\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\92cc54258d5226dd2828f6c860a5233e\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1236d5f67117bb6f57a887a9979e2c50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1236d5f67117bb6f57a887a9979e2c50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\47844d271274316f96b086d1748d91f4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\47844d271274316f96b086d1748d91f4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\54ec1b3b1915e7cd8f1cc1480816fc09\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\54ec1b3b1915e7cd8f1cc1480816fc09\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8d3130f022e799655211f937a0338598\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8d3130f022e799655211f937a0338598\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b7df65e3c95d8e97bc232e62cc38de68\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b7df65e3c95d8e97bc232e62cc38de68\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a0fa31e72f78779f0a9a38ddc0f964c5\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a0fa31e72f78779f0a9a38ddc0f964c5\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9e1e651967e104b2e9da9de8f7ce9504\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9e1e651967e104b2e9da9de8f7ce9504\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\423e59f3ce43075e41d239626c26ceae\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\423e59f3ce43075e41d239626c26ceae\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fcd29566a0f7b3c1402328d58de3cd29\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fcd29566a0f7b3c1402328d58de3cd29\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c5e486ece498bb71d8c52a1c667c9d3f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c5e486ece498bb71d8c52a1c667c9d3f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\91222773b3a74686df4d2d9e35c8ab1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\91222773b3a74686df4d2d9e35c8ab1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\62bb065ef568444bc3b7afdd8fb23368\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\62bb065ef568444bc3b7afdd8fb23368\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\80c5b86898a19d7dff5905c64ceb66c2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\80c5b86898a19d7dff5905c64ceb66c2\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5959d12ae7073feb5adeaa49d01df213\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sabrine\AndroidStudioProjects\TransitAPP\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7d90969c7e0ea7e1ece82e97baf24ce4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5959d12ae7073feb5adeaa49d01df213\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5959d12ae7073feb5adeaa49d01df213\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9d1562dae8e9a299cc223dd94eff4db7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9d1562dae8e9a299cc223dd94eff4db7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1236d5f67117bb6f57a887a9979e2c50\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1236d5f67117bb6f57a887a9979e2c50\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8d3130f022e799655211f937a0338598\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8d3130f022e799655211f937a0338598\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b7df65e3c95d8e97bc232e62cc38de68\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b7df65e3c95d8e97bc232e62cc38de68\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a0fa31e72f78779f0a9a38ddc0f964c5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a0fa31e72f78779f0a9a38ddc0f964c5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9e1e651967e104b2e9da9de8f7ce9504\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9e1e651967e104b2e9da9de8f7ce9504\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\423e59f3ce43075e41d239626c26ceae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\423e59f3ce43075e41d239626c26ceae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fcd29566a0f7b3c1402328d58de3cd29\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fcd29566a0f7b3c1402328d58de3cd29\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c5e486ece498bb71d8c52a1c667c9d3f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c5e486ece498bb71d8c52a1c667c9d3f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\91222773b3a74686df4d2d9e35c8ab1d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\91222773b3a74686df4d2d9e35c8ab1d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\62bb065ef568444bc3b7afdd8fb23368\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\62bb065ef568444bc3b7afdd8fb23368\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7d90969c7e0ea7e1ece82e97baf24ce4\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7d90969c7e0ea7e1ece82e97baf24ce4\AndroidManifest.xml:24:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\7265711a65bce4dbd726e0eae7755adc\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\7265711a65bce4dbd726e0eae7755adc\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\db3c86ac76ea249c04c597a7a0a6dfcf\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\db3c86ac76ea249c04c597a7a0a6dfcf\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\e24a4ad6479a3ee4ff9b887d3d9b8475\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\e24a4ad6479a3ee4ff9b887d3d9b8475\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.8.0.aar\31aeb8ce1ae367f6b26632c096ca91cf\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.8.0.aar\31aeb8ce1ae367f6b26632c096ca91cf\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\fe067a77bcd8ecd21dfa3e7041810869\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\7265711a65bce4dbd726e0eae7755adc\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\db3c86ac76ea249c04c597a7a0a6dfcf\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\db3c86ac76ea249c04c597a7a0a6dfcf\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\7265711a65bce4dbd726e0eae7755adc\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\22b84a2349a9c54570e67ad84590c0eb\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\4dab8207ddc940699ecc06dcaecf00d8\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\4dab8207ddc940699ecc06dcaecf00d8\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\4dab8207ddc940699ecc06dcaecf00d8\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\4dab8207ddc940699ecc06dcaecf00d8\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\4dab8207ddc940699ecc06dcaecf00d8\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\4dab8207ddc940699ecc06dcaecf00d8\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\4dab8207ddc940699ecc06dcaecf00d8\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\4dab8207ddc940699ecc06dcaecf00d8\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\4dab8207ddc940699ecc06dcaecf00d8\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\9d05d7d85cb794e9783ddf1a731888fc\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\9d05d7d85cb794e9783ddf1a731888fc\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\9d05d7d85cb794e9783ddf1a731888fc\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\9d05d7d85cb794e9783ddf1a731888fc\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\9d05d7d85cb794e9783ddf1a731888fc\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\9d05d7d85cb794e9783ddf1a731888fc\AndroidManifest.xml:7:18-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\be4657eb1d58e49400bd3f63ca7465b9\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\2873a995ca695e6c2152e76ebdd9832e\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\2873a995ca695e6c2152e76ebdd9832e\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\be4657eb1d58e49400bd3f63ca7465b9\AndroidManifest.xml:20:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\e24a4ad6479a3ee4ff9b887d3d9b8475\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\e24a4ad6479a3ee4ff9b887d3d9b8475\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\e24a4ad6479a3ee4ff9b887d3d9b8475\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\40f0c37d5269ddf0fdc387c2456a28ee\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\40f0c37d5269ddf0fdc387c2456a28ee\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\40f0c37d5269ddf0fdc387c2456a28ee\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\40f0c37d5269ddf0fdc387c2456a28ee\AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\58603973cb950aaca5861e1f1d3e1738\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\58603973cb950aaca5861e1f1d3e1738\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\58603973cb950aaca5861e1f1d3e1738\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\58603973cb950aaca5861e1f1d3e1738\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\58603973cb950aaca5861e1f1d3e1738\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\58603973cb950aaca5861e1f1d3e1738\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\58603973cb950aaca5861e1f1d3e1738\AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\2d03b7b0e9fef4035e7709edf86e319e\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\b5fa05211b94c618639aeb94af569249\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\ebf42e4e742520a7ba878f50bf3032bb\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:24:17-71
+permission#com.app.transit.transitapp.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:26:22-76
+uses-permission#com.app.transit.transitapp.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:31:13-35:29
+intent-filter#com.app.transit.transitapp+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:34:27-58
+category#com.app.transit.transitapp
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\b11e80c022d6c49e36c38592ffc6169d\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\b5dc6cb0d4d993a9fc568a18ee530c8f\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\b5dc6cb0d4d993a9fc568a18ee530c8f\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\b5dc6cb0d4d993a9fc568a18ee530c8f\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\b5dc6cb0d4d993a9fc568a18ee530c8f\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\b5dc6cb0d4d993a9fc568a18ee530c8f\AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\92cc54258d5226dd2828f6c860a5233e\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\92cc54258d5226dd2828f6c860a5233e\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\92cc54258d5226dd2828f6c860a5233e\AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\80c5b86898a19d7dff5905c64ceb66c2\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\80c5b86898a19d7dff5905c64ceb66c2\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sabrine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\80c5b86898a19d7dff5905c64ceb66c2\AndroidManifest.xml:26:13-58
